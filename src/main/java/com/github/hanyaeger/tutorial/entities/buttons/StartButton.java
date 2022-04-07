@@ -13,4 +13,4 @@ public class StartButton extends TextEntity {
         setFont(Font.font("Roboto", FontWeight.BOLD, 30));
     }
 
-}}
+}
