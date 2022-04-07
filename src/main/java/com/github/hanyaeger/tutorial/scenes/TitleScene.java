@@ -27,6 +27,12 @@ public class TitleScene extends StaticScene {
         waterworldText.setFont(Font.font("Roboto", FontWeight.SEMI_BOLD, 80));
         addEntity(waterworldText);
 
+        StartButton startButtonLvl = new StartButton(
+                new Coordinate2D(getWidth() / 1.5, getHeight() / 1.5)
+        );
+        addEntity(startButtonLvl);
+
+
 
     }
 }
