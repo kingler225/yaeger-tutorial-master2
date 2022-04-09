@@ -1,6 +1,7 @@
 package com.github.hanyaeger.tutorial.scenes;
 
 import com.github.hanyaeger.api.scenes.DynamicScene;
+import com.github.hanyaeger.tutorial.Waterworld;
 
 public class GameLevel extends DynamicScene {
     @Override
